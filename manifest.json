@@ -1,0 +1,22 @@
+
+{
+  "short_name": "Tech Master",
+  "name": "Tech Master | Computer Engineer",
+  "icons": [
+    {
+      "src": "https://www.gajarbotol.site/Tech_master/Tech_master_profile.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://www.gajarbotol.site/Tech_master/Tech_master_profile.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563EB",
+  "background_color": "#F8FAFC",
+  "orientation": "portrait"
+}
