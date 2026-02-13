@@ -32,8 +32,8 @@ const ScreenContent = () => {
         </div>
         <div className="flex-1 overflow-hidden opacity-90 leading-relaxed">
             <span className="text-green-400">root@techmaster</span>:<span className="text-blue-400">~</span>$ initialize_protocol<br/>
-            <span className="text-yellow-300">>></span> Protecting Bangladesh...<br/>
-            <span className="text-yellow-300">>></span> Loading Security Modules...<br/>
+            <span className="text-yellow-300">&gt;&gt;</span> Protecting Bangladesh...<br/>
+            <span className="text-yellow-300">&gt;&gt;</span> Loading Security Modules...<br/>
             <span className="text-green-500">[SUCCESS]</span> Firewall Active<br/>
             <span className="text-green-500">[SUCCESS]</span> Malware Neuralized<br/>
             <br/>
